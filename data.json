@@ -1,14 +1,14 @@
 {
 	"name": "42 тренди цифрових медіа",
-	"name-en": "42. Digital media trends",
+	"name-en": "42 Didital Media Trends: The Hitchhiker's Guide",
 	"img": "https://raw.githubusercontent.com/Aeternia-ua/Mediacommunication-D3-interactive-tree/master/img/1.jpg",
 	"children": [{
 			"name": "SMM/digital marketing",
-				"name-en": "SMM/digital marketing",
+			"name-en": "SMM/digital marketing",
 			"img": "https://raw.githubusercontent.com/Aeternia-ua/Digital-media-trends/master/img/smmm.png",
 			"children": [{
 					"name": "Нехронологічне оновлення стрічки як перешкода для SMM",
-						"name-en": "The Death of Organic Social Media",
+					"name-en": "The Death of Organic Social Media",
 					"img": "https://raw.githubusercontent.com/Aeternia-ua/Digital-media-trends/master/img/smmm-sub.png",
 					"size": 1500,
 					"children": [{
@@ -29,7 +29,7 @@
 				},
 				{
 					"name": "Таргетинг, персоналізація контенту",
-						"name-en": "Personalized advertizing",
+					"name-en": "Personalized advertizing",
 					"img": "https://raw.githubusercontent.com/Aeternia-ua/Digital-media-trends/master/img/smmm-sub.png",
 					"size": 3812,
 					"children": [{
@@ -179,6 +179,7 @@
 		},
 		{
 			"name": "Інструменти та технології",
+			"name-en": "Technology",
 			"img": "https://raw.githubusercontent.com/Aeternia-ua/Digital-media-trends/master/img/technology.png",
 			"children": [{
 					"name": "Використання штучного інтелекту",
@@ -330,6 +331,7 @@
 		},
 		{
 			"name": "Контент",
+			"name-en": "Content",
 			"img": "https://raw.githubusercontent.com/Aeternia-ua/Digital-media-trends/master/img/content.png",
 			"children": [{
 					"name": "Фейкові новини",
@@ -535,6 +537,7 @@
 		},
 		{
 			"name": "Стратегії",
+			"name-en": "Strategies",
 			"img": "https://raw.githubusercontent.com/Aeternia-ua/Digital-media-trends/master/img/strategy.png",
 			"children": [{
 					"name": "Civic media і громадянська журналістика",
