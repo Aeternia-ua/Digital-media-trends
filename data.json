@@ -1,24 +1,27 @@
 {
 	"name": "42 тренди цифрових медіа",
+	"name-en": "42. Digital media trends",
 	"img": "https://raw.githubusercontent.com/Aeternia-ua/Mediacommunication-D3-interactive-tree/master/img/1.jpg",
 	"children": [{
 			"name": "SMM/digital marketing",
+				"name-en": "SMM/digital marketing",
 			"img": "https://raw.githubusercontent.com/Aeternia-ua/Digital-media-trends/master/img/smmm.png",
 			"children": [{
 					"name": "Нехронологічне оновлення стрічки як перешкода для SMM",
+						"name-en": "The Death of Organic Social Media",
 					"img": "https://raw.githubusercontent.com/Aeternia-ua/Digital-media-trends/master/img/smmm-sub.png",
 					"size": 1500,
 					"children": [{
 
 						"name": "Аргумент",
 						"img": " ",
-						"textUrl": " ",
+						"textUrl": "https://www.digitalmarketer.com/facebook-live-community-development/",
 						"size": 1500
 					}, {
 
 						"name": "Кейс #1",
 						"img": " ",
-						"textUrl": " ",
+						"textUrl": "http://www.mediamavenandmore.com/tag/social-media-marketing/",
 						"size": 1500
 					}]
 
@@ -26,60 +29,64 @@
 				},
 				{
 					"name": "Таргетинг, персоналізація контенту",
+						"name-en": "Personalized advertizing",
 					"img": "https://raw.githubusercontent.com/Aeternia-ua/Digital-media-trends/master/img/smmm-sub.png",
 					"size": 3812,
 					"children": [{
 
 						"name": "Аргумент",
 						"img": " ",
-						"textUrl": " ",
+						"textUrl": "https://www.entrepreneur.com/article/283517",
 						"size": 1500
 					}, {
 
 						"name": "Кейс #1",
 						"img": " ",
-						"textUrl": " ",
+						"textUrl": "https://policies.yahoo.com/ie/en/yahoo/privacy/tools/index.htm",
 						"size": 1500
 					}]
 				},
 				{
 					"name": "Еволюція stories в інстаграмі як різновид реклами",
+					"name-en": "Instagram stories for advertizing",
 					"img": "https://raw.githubusercontent.com/Aeternia-ua/Digital-media-trends/master/img/smmm-sub.png",
 					"size": 3812,
 					"children": [{
 
-						"name": "Аргумент",
+						"name": "9 porad jak skutecznie wykorzystać Instagram Stories w swoich działaniach marketingowych",
 						"img": " ",
-						"textUrl": " ",
+						"textUrl": "http://blog.bloomboard.co/2016/11/17/9-porad-jak-skutecznie-wykorzystac-instagrama-stories/",
 						"size": 1500
 					}, {
 
 						"name": "Кейс #1",
 						"img": " ",
-						"textUrl": " ",
+						"textUrl": "https://rusability.ru/internet-marketing/smm/5-variantov-biznes-ispolzovaniya-instagram-stories/",
 						"size": 1500
 					}]
 				},
 				{
 					"name": "Автоматизація digital реклами",
+					"name-en": "Content marketing automation",
 					"img": "https://raw.githubusercontent.com/Aeternia-ua/Digital-media-trends/master/img/smmm-sub.png",
 					"size": 3812,
 					"children": [{
 
-						"name": "Аргумент",
+						"name": "10 Top Digital Marketing Automation Tools That Could Transform Your Business",
 						"img": " ",
-						"textUrl": " ",
+						"textUrl": "http://www.jeffbullas.com/10-top-digital-marketing-automation-tools/",
 						"size": 1500
 					}, {
 
-						"name": "Кейс #1",
+						"name": "7 Marketing Automation Tools to Manage Your Social Media Campaigns",
 						"img": " ",
-						"textUrl": " ",
+						"textUrl": "https://www.dreamgrow.com/7-key-automation-tools/",
 						"size": 1500
 					}]
 				},
 				{
 					"name": "Пріорітетність бізнес-аналітики в соціальних медіа",
+					"name-en": "Social media analytics",
 					"img": "https://raw.githubusercontent.com/Aeternia-ua/Digital-media-trends/master/img/smmm-sub.png",
 					"size": 3812,
 					"children": [{
@@ -91,13 +98,13 @@
 					}, {
 
 						"name": "Кейс #1",
-						"img": " ",
+						"img": "https://www.theguardian.com/technology/2013/jun/10/effective-social-media-analytics",
 						"textUrl": " ",
 						"size": 1500
 					}]
 				},
 				{
-					"name": "THE FALL OF ORGANIC FACEBOOK CONTENT",
+					"name": "The FALL OF ORGANIC FACEBOOK CONTENT",
 					"img": "https://raw.githubusercontent.com/Aeternia-ua/Digital-media-trends/master/img/smmm-sub.png",
 					"size": 3812,
 					"children": [{
