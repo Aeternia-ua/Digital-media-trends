@@ -1,14 +1,14 @@
 {
 	"name": "42 тренди цифрових медіа",
-	"name-en": "42 Didital Media Trends: The Hitchhiker's Guide",
+	"nameeng": "42 Didital Media Trends: The Hitchhiker's Guide",
 	"img": "https://raw.githubusercontent.com/Aeternia-ua/Mediacommunication-D3-interactive-tree/master/img/1.jpg",
 	"children": [{
 			"name": "SMM/digital marketing",
-			"name-en": "SMM/digital marketing",
+				"nameeng": "SMM/digital marketing",
 			"img": "https://raw.githubusercontent.com/Aeternia-ua/Digital-media-trends/master/img/smmm.png",
 			"children": [{
 					"name": "Нехронологічне оновлення стрічки як перешкода для SMM",
-					"name-en": "The Death of Organic Social Media",
+						"nameeng": "The Death of Organic Social Media",
 					"img": "https://raw.githubusercontent.com/Aeternia-ua/Digital-media-trends/master/img/smmm-sub.png",
 					"size": 1500,
 					"children": [{
@@ -29,7 +29,7 @@
 				},
 				{
 					"name": "Таргетинг, персоналізація контенту",
-					"name-en": "Personalized advertizing",
+						"nameeng": "Personalized advertizing",
 					"img": "https://raw.githubusercontent.com/Aeternia-ua/Digital-media-trends/master/img/smmm-sub.png",
 					"size": 3812,
 					"children": [{
@@ -48,7 +48,7 @@
 				},
 				{
 					"name": "Еволюція stories в інстаграмі як різновид реклами",
-					"name-en": "Instagram stories for advertizing",
+					"nameeng": "Instagram stories for advertizing",
 					"img": "https://raw.githubusercontent.com/Aeternia-ua/Digital-media-trends/master/img/smmm-sub.png",
 					"size": 3812,
 					"children": [{
@@ -67,7 +67,7 @@
 				},
 				{
 					"name": "Автоматизація digital реклами",
-					"name-en": "Content marketing automation",
+					"nameeng": "Content marketing automation",
 					"img": "https://raw.githubusercontent.com/Aeternia-ua/Digital-media-trends/master/img/smmm-sub.png",
 					"size": 3812,
 					"children": [{
@@ -86,7 +86,7 @@
 				},
 				{
 					"name": "Пріорітетність бізнес-аналітики в соціальних медіа",
-					"name-en": "Social media analytics",
+					"nameeng": "Social media analytics",
 					"img": "https://raw.githubusercontent.com/Aeternia-ua/Digital-media-trends/master/img/smmm-sub.png",
 					"size": 3812,
 					"children": [{
@@ -179,7 +179,7 @@
 		},
 		{
 			"name": "Інструменти та технології",
-			"name-en": "Technology",
+			"nameeng": "Technology",
 			"img": "https://raw.githubusercontent.com/Aeternia-ua/Digital-media-trends/master/img/technology.png",
 			"children": [{
 					"name": "Використання штучного інтелекту",
@@ -331,7 +331,7 @@
 		},
 		{
 			"name": "Контент",
-			"name-en": "Content",
+			"nameeng": "Content",
 			"img": "https://raw.githubusercontent.com/Aeternia-ua/Digital-media-trends/master/img/content.png",
 			"children": [{
 					"name": "Фейкові новини",
@@ -537,7 +537,7 @@
 		},
 		{
 			"name": "Стратегії",
-			"name-en": "Strategies",
+			"nameeng": "Strategies",
 			"img": "https://raw.githubusercontent.com/Aeternia-ua/Digital-media-trends/master/img/strategy.png",
 			"children": [{
 					"name": "Civic media і громадянська журналістика",
