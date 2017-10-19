@@ -3,7 +3,7 @@
 	"img": "https://raw.githubusercontent.com/Aeternia-ua/Mediacommunication-D3-interactive-tree/master/img/1.jpg",
 	"children": [{
 			"name": "SMM/digital marketing",
-			"img": "https://raw.githubusercontent.com/Aeternia-ua/Mediacommunication-D3-interactive-tree/master/img/4.jpg",
+			"img": "https://raw.githubusercontent.com/Aeternia-ua/Digital-media-trends/master/img/smmm.png",
 			"children": [{
 					"name": "Нехронологічне оновлення стрічки як перешкода для SMM",
 					"img": "https://raw.githubusercontent.com/Aeternia-ua/Mediacommunication-D3-interactive-tree/master/img/2.jpg",
@@ -172,7 +172,7 @@
 		},
 		{
 			"name": "Інструменти та технології",
-			"img": "https://raw.githubusercontent.com/Aeternia-ua/Mediacommunication-D3-interactive-tree/master/img/4.jpg",
+			"img": "https://raw.githubusercontent.com/Aeternia-ua/Digital-media-trends/master/img/technology.png",
 			"children": [{
 					"name": "Використання штучного інтелекту",
 					"img": "https://raw.githubusercontent.com/Aeternia-ua/Mediacommunication-D3-interactive-tree/master/img/2.jpg",
@@ -323,7 +323,7 @@
 		},
 		{
 			"name": "Контент",
-			"img": "https://raw.githubusercontent.com/Aeternia-ua/Mediacommunication-D3-interactive-tree/master/img/4.jpg",
+			"img": "https://raw.githubusercontent.com/Aeternia-ua/Digital-media-trends/master/img/content.png",
 			"children": [{
 					"name": "Фейкові новини",
 					"img": "https://raw.githubusercontent.com/Aeternia-ua/Mediacommunication-D3-interactive-tree/master/img/2.jpg",
@@ -528,7 +528,7 @@
 		},
 		{
 			"name": "Стратегії",
-			"img": "https://raw.githubusercontent.com/Aeternia-ua/Mediacommunication-D3-interactive-tree/master/img/4.jpg",
+			"img": "https://raw.githubusercontent.com/Aeternia-ua/Digital-media-trends/master/img/strategy.png",
 			"children": [{
 					"name": "Civic media і громадянська журналістика",
 					"img": "https://raw.githubusercontent.com/Aeternia-ua/Mediacommunication-D3-interactive-tree/master/img/2.jpg",
